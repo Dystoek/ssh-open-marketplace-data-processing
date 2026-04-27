@@ -1,0 +1,71 @@
+{
+  "category": "dataset",
+  "label": "3D-ICONS -- 3D Digitisation of Icons of European Architectural and Archaeological Heritage",
+  "description": "3D-ICONS was a pilot project funded under the European Commission's ICT Policy Support Programme which started on 1st February 2012 and ran for three years. It brought together partners from across Europe with the relevant expertise to digitise architectural and archaeological monuments and buildings in 3D and is designed to: establish a complete pipeline for the production of 3D replicas of archaeological monuments and historic buildings which covers all technical, legal and organisational aspects; create 3D models and a range of other materials (images, texts and videos) of a series of internationally important monuments and buildings; and contribute content to Europeana using the CARARE aggregation service.",
+  "contributors": [],
+  "accessibleAt": [
+    "http://3dicons-project.eu/guidelines-and-case-studies/guidelines"
+  ],
+  "externalIds": [],
+  "source": {
+    "id": 3,
+    "label": "SSK Zotero Resources",
+    "url": "https://www.zotero.org/groups/427927/ssk-parthenos",
+    "urlTemplate": "https://api.zotero.org/groups/427927/items/{source-item-id}"
+  },
+  "sourceItemId": "XY49BQNJ",
+  "properties": [
+    {
+      "type": {
+        "code": "language",
+        "label": "Language",
+        "type": "concept",
+        "groupName": "Categorisation",
+        "hidden": false,
+        "ord": 20,
+        "allowedVocabularies": [
+          {
+            "code": "iso-639-3",
+            "scheme": "https://vocabs.acdh.oeaw.ac.at/iso6393/Schema",
+            "namespace": "https://vocabs.acdh.oeaw.ac.at/iso6393/",
+            "label": "ISO 639-3 Language Codes",
+            "closed": true
+          }
+        ]
+      },
+      "concept": {
+        "code": "eng",
+        "vocabulary": {
+          "code": "iso-639-3",
+          "scheme": "https://vocabs.acdh.oeaw.ac.at/iso6393/Schema",
+          "namespace": "https://vocabs.acdh.oeaw.ac.at/iso6393/",
+          "label": "ISO 639-3 Language Codes",
+          "closed": true
+        },
+        "label": "English",
+        "notation": "",
+        "uri": "https://vocabs.acdh.oeaw.ac.at/iso6393/eng",
+        "candidate": false
+      }
+    }
+  ],
+  "conversionQuality": "partial",
+  "curation": {
+    "status": "draft",
+    "needsManualReview": true,
+    "reviewNotes": [
+      "Converted from Publication to Dataset draft.",
+      "Check whether publication identifiers refer to the dataset itself or only to the publication.",
+      "Add missing dataset-specific metadata where available.",
+      "No contributors were available in the selected publication record, so the contributors list is empty.",
+      "No external identifiers were available in the selected publication record.",
+      "Dataset-specific fields such as format, temporal coverage, spatial coverage, and access conditions were not inferred automatically."
+    ]
+  },
+  "derivedFrom": {
+    "originalCategory": "publication",
+    "originalId": 47750,
+    "originalPersistentId": "jOum8c",
+    "conversionNote": "Draft dataset record generated from a Publication item for review. Original publication ID: 47750. Original title: 3D-ICONS -- 3D Digitisation of Icons of European Architectural and Archaeological Heritage. Dataset-specific metadata should be checked manually before submission."
+  }
+}
