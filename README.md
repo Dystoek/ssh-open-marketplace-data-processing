@@ -58,22 +58,7 @@ The approach reduces a large dataset into a small, actionable list of candidate 
 - **Human-in-the-loop workflow**
 - **Reproducible and readable code**
 
----
 
-## Project Structure
-├── option_a/
-│ ├── SSH_Open_Marketplace_Publication_to_Dataset_Conversion.ipynb
-│ └── converted_publication_to_dataset_draft.json
-│
-├── option_b/
-│ └── SSH_Open_Marketplace_Duplicate_Detection.ipynb
-│
-├── requirements.txt
-└── README.md
-
-
-
----
 
 ## How to Run
 
